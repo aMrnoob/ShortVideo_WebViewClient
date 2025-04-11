@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "423914327564",
+    "firebase_url": "https://videoshorts-d3674-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "videoshorts-d3674",
+    "storage_bucket": "videoshorts-d3674.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:423914327564:android:4520db40709ec5c4f66829",
+        "android_client_info": {
+          "package_name": "com.example.firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDoWhnlFSTXhwp9r-FnHO-G59lN64KqFlk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
