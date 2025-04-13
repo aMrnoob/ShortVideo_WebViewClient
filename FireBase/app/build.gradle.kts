@@ -42,7 +42,7 @@ dependencies {
     implementation ("com.firebaseui:firebase-ui-database:8.0.1")
     implementation("com.squareup.retrofit2:retrofit:2.9.0")
     implementation("com.squareup.retrofit2:converter-gson:2.9.0")
-    implementation("com.pierfrancescosoffritti.androidyoutubeplayer:core:11.1.0")
+    implementation("com.cloudinary:cloudinary-android:2.3.1")
 
     implementation(libs.appcompat)
     implementation(libs.material)
